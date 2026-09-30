@@ -1,0 +1,62 @@
+{
+  "name": "MOHAMMED SHAHID",
+  "headline": "Senior Backend Engineer | Python, Go, Distributed Systems, AI/LLM Integrations",
+  "contact": [
+    "Kerala, India",
+    "+91 81294 90227",
+    "hello@mohammedshahid.in",
+    "linkedin.com/in/mohammed-shahid-8456b218b",
+    "github.com/pkshahid",
+    "mohammedshahid.in"
+  ],
+  "summary": "Senior Backend Engineer with 5+ years of experience designing, building, and operating production backend systems in Python and Go. Delivered and maintained 17+ production applications across MLM, e-commerce, CRM, LMS, ticketing, and customer support domains, including multi-module platforms serving 10,000+ users. Experienced with microservices and monolithic architectures, REST and gRPC APIs, asynchronous and event-driven processing, and PostgreSQL performance tuning, including reducing a critical query from nearly 2 minutes to 5 milliseconds. Integrates LLM capabilities into backend products using the OpenAI, Gemini, and Claude APIs and Retrieval-Augmented Generation (RAG).",
+  "skills": [
+    ["Languages", "Python, Go (Golang), JavaScript, TypeScript, HTML, CSS"],
+    ["Backend Frameworks", "Django, Django REST Framework, FastAPI, Gin"],
+    ["Architecture", "Microservices, Monolithic Architecture, Distributed Systems, System Design, Event-Driven Architecture, Clean Architecture, REST APIs, gRPC, WebSockets"],
+    ["Databases & Search", "PostgreSQL, Redis, Elasticsearch, PgBouncer"],
+    ["Messaging & Async Processing", "RabbitMQ, Celery, Go Workers, Cron Jobs"],
+    ["AI & LLM", "OpenAI API, Gemini API, Claude API, LLM Integrations, Retrieval-Augmented Generation (RAG), Prompt Engineering, Agentic Development Workflows"],
+    ["Cloud & DevOps", "AWS EC2, AWS SNS, Docker, Docker Compose, Nginx, CI/CD, GitHub Actions, Jenkins, Sentry"],
+    ["Integrations", "Stripe, PayPal, Razorpay, NMI, Coinbase, CoinPayments, WhatsApp, Zapier, Mighty Networks, Zoho Desk, OAuth, SSO"],
+    ["Frontend", "React, Next.js, Ajax, jQuery"]
+  ],
+  "experience": [
+    {
+      "company": "Epixel Solutions Pvt Ltd",
+      "location": "Kerala, India",
+      "roles": [
+        ["Senior Software Engineer", "Jan 2024 – Present"],
+        ["Junior Software Engineer", "Dec 2020 – Jan 2024"]
+      ],
+      "bullets": [
+        "Designed, built, and maintained scalable backend systems and distributed services in Python and Go using Django, Django REST Framework, FastAPI, Gin, PostgreSQL, Redis, and Docker.",
+        "Delivered and maintained 17+ production applications across MLM, e-commerce, CRM, LMS, ticketing, and customer support domains, serving more than 10,000 users.",
+        "Reduced a critical database query's execution time from nearly 2 minutes to 5 milliseconds through query optimization and indexing strategies.",
+        "Developed and maintained 50+ REST APIs and built 8 microservices in Python and Go to support asynchronous and event-driven workflows.",
+        "Built background workers, cron jobs, WebSocket services, and gRPC-based services for high-performance processing.",
+        "Customized and enhanced an 18-module platform spanning user management, binary/unilevel/matrix networks, wallets, commission and ranking engines, subscriptions, payment processing, reporting, notifications, and transaction workflows.",
+        "Migrated 10,000+ users and their transactional data across production environments.",
+        "Integrated payment, messaging, automation, and AI services, including Stripe, PayPal, NMI, Razorpay, Coinbase, CoinPayments, WhatsApp, Zapier, Mighty Networks, Zoho Desk, AWS SNS, and the OpenAI, Gemini, and Claude APIs.",
+        "Independently owned and delivered the ticketing, notification, and customer support modules.",
+        "Managed production infrastructure on AWS EC2 with Docker, Nginx, PgBouncer, Redis, RabbitMQ, Elasticsearch, Sentry, and CI/CD pipelines; handled production incidents, hotfixes, monitoring, and reliability improvements.",
+        "Contributed to requirements analysis, system design, database schema design, and architecture discussions, and collaborated directly with clients and cross-functional teams on production releases.",
+        "Performed code reviews and mentored 3 junior engineers within a team of 15 developers."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Diploma in Electronics Engineering",
+      "dates": "2017 – 2020",
+      "school": "SSM Polytechnic College, Tirur, Kerala",
+      "detail": "CGPA: 9.24 / 10"
+    }
+  ],
+  "certifications": [
+    "Go Programming Language",
+    "Python",
+    "Academy Accreditation – Generative AI Fundamentals"
+  ],
+  "languages": "English (Professional Working), Malayalam (Native), Arabic (Limited Working)"
+}
